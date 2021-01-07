@@ -26,9 +26,6 @@ int main()
     {
         K->kill(Ptr1);
 
-        //std::cout << "after kill \n";
-        //Ptr1->yell();
-
         R->spawn(Ptr1);
 
         std::cout << "after resp \n";
