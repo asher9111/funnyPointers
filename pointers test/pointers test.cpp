@@ -9,7 +9,7 @@
 
 int main()
 {
-    std::cout << "init human\n";
+    std::cout << "init human\n \n";
 
 
     human *Ptr1 = new human;
@@ -20,7 +20,7 @@ int main()
 
 
 
-    std::cout << "cycle starts \n";
+    std::cout << "cycle starts \n \n";
 
     while (1)
     {
