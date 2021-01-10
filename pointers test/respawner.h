@@ -10,7 +10,7 @@ public:
 	Respawner();
 	~Respawner();
 	
-	void spawn(human*);
+	void spawn(human*& );
 
 
 };
